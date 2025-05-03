@@ -69,14 +69,14 @@ Developed by **Abhishek Vishwakarma** as part of a business intelligence practic
 ## 📷 Preview
 
 ### 🔆 Light Theme
-![Light Theme](Page%201.png)
+![Light Theme](https://github.com/abhishekV004/Sales-Analysis-Dashboard-/blob/main/Sales%20Analysis%20Dashboard/Dashboard%20Page%201.pdf):Dashboard Page 1
 
-### 🌙 Dark Theme
-![Dark Theme](Page%202.png)
+### 🌙 Dark Theme  
+![Dark Theme](https://github.com/abhishekV004/Sales-Analysis-Dashboard-/blob/main/Sales%20Analysis%20Dashboard/Dashboard%20Page%201.pdf) :Dashboard Page 2
 
 ---
 
 ## 🎥 Demo Video
 
 Experience the dashboard in action:  
-📽 [Click to Watch](Video%20Clip.mp4)
+📽 [Click to Watch]([(https://github.com/abhishekV004/Sales-Analysis-Dashboard-/blob/main/Sales%20Analysis%20Dashboard/Video%20Clip.mp4))
