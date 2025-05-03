@@ -79,4 +79,4 @@ Developed by **Abhishek Vishwakarma** as part of a business intelligence practic
 ## 🎥 Demo Video
 
 Experience the dashboard in action:  
-📽 [Click to Watch]([(https://github.com/abhishekV004/Sales-Analysis-Dashboard-/blob/main/Sales%20Analysis%20Dashboard/Video%20Clip.mp4))
+📽 [Click to Watch]((https://github.com/abhishekV004/Sales-Analysis-Dashboard-/blob/main/Sales%20Analysis%20Dashboard/Video%20Clip.mp4))
